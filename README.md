@@ -1,5 +1,7 @@
 # Project Responsive Web Design using Bootstrap
 # Date:  14-12-2024
+# Developed by : DHANAPPRIYA S
+
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
